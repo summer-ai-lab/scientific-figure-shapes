@@ -4,10 +4,11 @@
 
 **momo科研版** · 分享科研技巧
 
-- 小红书：[momo科研版](https://xhslink.com/m/3aXzBrRpJ5G)（小红书号 `2798706502`）
-- 微信：扫码添加好友
+小红书 [momo科研版](https://xhslink.com/m/3aXzBrRpJ5G)（小红书号 `2798706502`）
 
-<img src="assets/contact/wechat-momo.jpg" alt="momo 的微信二维码" width="260">
+| 小红书 · 扫码访问主页 | 微信 · 扫码添加好友 |
+| :---: | :---: |
+| <img src="assets/contact/xiaohongshu-momo.png" alt="momo科研版的小红书二维码" width="240"> | <img src="assets/contact/wechat-momo.jpg" alt="momo 的微信二维码" width="260"> |
 
 `scientific-figure-shapes` 是一个用于 Codex 的科研图像重建 skill，可以把科研机制图、流程图、截图、学术示意图快速还原为可编辑的 PowerPoint VBA Shapes。
 
